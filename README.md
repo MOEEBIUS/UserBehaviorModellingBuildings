@@ -24,6 +24,10 @@ Requires Apache Commons Math 3.6.1
 
 This code is released by Technische Hochschule Nuernberg Georg Simon Ohm under the Apache License, Version 2.0
 
+You may reference this repository by the following DOI 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1214970.svg)](https://doi.org/10.5281/zenodo.1214970)
+.
 
 ## Acknowledgments
 
